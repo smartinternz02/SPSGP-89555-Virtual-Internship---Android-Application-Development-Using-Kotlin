@@ -1,7 +1,10 @@
 # About Me
 My name is Gaurav Vishwakarma and currently I'm a student of BCA 3rd year.
+
 Smartinternz Dashboard Link- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIzNzE5NA==
+
 Google Developer Profile Link- https://g.dev/gaurav17
+
 
 # Project - Grocery Android App
 This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
