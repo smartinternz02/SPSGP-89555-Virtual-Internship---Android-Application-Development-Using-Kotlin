@@ -1,4 +1,4 @@
-# GroceryApplication
+# Grocery Item Reminder
 My Name is Gaurav Vishwakarma.
 This Project Is a part of Virtual Internship - Android Application Development Using Kotlin.
 
