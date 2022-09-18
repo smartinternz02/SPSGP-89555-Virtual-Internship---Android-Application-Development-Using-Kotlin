@@ -13,7 +13,7 @@ As we can't remember everything, users frequently forget to buy the things they 
 
 Demonstration video of App- https://drive.google.com/file/d/1DQMp4Y79xrqDYsjY0gbDiH3zDQIYwqlG/view?usp=drivesdk
 
-#Screenshots
+# Screenshots
 
 ![Screenshot_2022-09-18-18-05-16-403_com example groceryapplication](https://user-images.githubusercontent.com/107822717/190903678-cc0065f9-8b63-4cf0-9d91-78afc51c0c62.jpg)
 
